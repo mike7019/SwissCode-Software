@@ -1,0 +1,51 @@
+# SwissCode Software & Cybersecurity - Robots.txt
+# Optimized for Swiss market SEO
+
+User-agent: *
+Allow: /
+
+# Allow all major search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+# Disallow admin and private areas
+Disallow: /admin/
+Disallow: /private/
+Disallow: /_next/
+Disallow: /api/
+
+# Allow all CSS and JS files
+Allow: /assets/
+Allow: /*.css$
+Allow: /*.js$
+
+# Swiss market specific crawling preferences
+Crawl-delay: 1
+
+# Sitemap location - Swiss domain
+Sitemap: https://swisscode.ch/sitemap.xml
+Sitemap: https://swisscode.ch/sitemap-pages.xml
+
+# Additional sitemaps for Swiss market multilingual support
+Sitemap: https://swisscode.ch/sitemap-services.xml
+Sitemap: https://swisscode.ch/sitemap-de.xml
+Sitemap: https://swisscode.ch/sitemap-fr.xml
+Sitemap: https://swisscode.ch/sitemap-it.xml
+
+# Host directive for Swiss domain
+Host: https://swisscode.ch

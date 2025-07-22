@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Homepage - Swiss Software & Cybersecurity -->
+  <url>
+    <loc>https://swisscode.ch/</loc>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <!-- Multi-language support for Swiss market -->
+    <xhtml:link rel="alternate" hreflang="es" href="https://swisscode.ch/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://swisscode.ch/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://swisscode.ch/fr/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://swisscode.ch/it/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://swisscode.ch/en/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://swisscode.ch/" />
+    <image:image>
+      <image:loc>https://swisscode.ch/swisscode-logo.svg</image:loc>
+      <image:title>SwissCode Software &amp; Cybersecurity</image:title>
+      <image:caption>Empresa líder suiza en desarrollo de software premium y ciberseguridad avanzada</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Services Page - Swiss Premium Services -->
+  <url>
+    <loc>https://swisscode.ch/servicios/</loc>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://swisscode.ch/servicios/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://swisscode.ch/de/dienstleistungen/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://swisscode.ch/fr/services/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://swisscode.ch/it/servizi/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://swisscode.ch/en/services/" />
+    <image:image>
+      <image:loc>https://swisscode.ch/services-swiss.jpg</image:loc>
+      <image:title>Servicios Premium de Software y Ciberseguridad Suiza</image:title>
+    </image:image>
+  </url>
+
+  <!-- About Page - Swiss Company -->
+  <url>
+    <loc>https://swisscode.ch/sobre-nosotros/</loc>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://swisscode.ch/sobre-nosotros/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://swisscode.ch/de/uber-uns/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://swisscode.ch/fr/a-propos/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://swisscode.ch/it/chi-siamo/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://swisscode.ch/en/about-us/" />
+    <image:image>
+      <image:loc>https://swisscode.ch/team-swiss.jpg</image:loc>
+      <image:title>Equipo SwissCode - Expertos en Tecnología Suiza</image:title>
+    </image:image>
+  </url>
+
+  <!-- Contact Page - Swiss Contact -->
+  <url>
+    <loc>https://swisscode.ch/contacto/</loc>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://swisscode.ch/contacto/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://swisscode.ch/de/kontakt/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://swisscode.ch/fr/contact/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://swisscode.ch/it/contatto/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://swisscode.ch/en/contact/" />
+  </url>
+
+  <!-- Careers Page - Swiss Jobs -->
+  <url>
+    <loc>https://swisscode.ch/trabaja-con-nosotros/</loc>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://swisscode.ch/trabaja-con-nosotros/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://swisscode.ch/de/arbeiten-mit-uns/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://swisscode.ch/fr/travailler-avec-nous/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://swisscode.ch/it/lavora-con-noi/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://swisscode.ch/en/work-with-us/" />
+    <image:image>
+      <image:loc>https://swisscode.ch/careers-swiss.jpg</image:loc>
+      <image:title>Carreras en SwissCode - Oportunidades Tecnológicas en Suiza</image:title>
+    </image:image>
+  </url>
+
+  <!-- Service Category Pages for Swiss market -->
+  <url>
+    <loc>https://swisscode.ch/servicios/desarrollo-web-suiza/</loc>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://swisscode.ch/servicios/ciberseguridad-suiza/</loc>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://swisscode.ch/servicios/transformacion-digital-switzerland/</loc>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://swisscode.ch/servicios/infraestructura-cloud-suiza/</loc>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+</urlset>
